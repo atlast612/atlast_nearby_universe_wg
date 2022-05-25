@@ -1,8 +1,23 @@
-# collaborative_working
+# AtLAST Nearby Universe & Galaxies Science Case Working Group
 
-This is a template work space for AtLAST working group collaboration.
+This is a community effort for the AtLAST telescope design! Here is a place for summarizing our working group's discussions! What would we like to learn about nearby galaxies? star formation laws? states and statistics of the ISM? anything that you have expertise in? Please feel free to express any idea you have in Slack #nearby_galaxies-case_study!
 
-## Checklist for using this space:
+## What we have in this repository:
+- **Exciting science cases** that can and shall be done with the revolutionary 50-m sub-mm telescope AtLAST about the nearby Universe. 
+- **Ambitious survey designs** that can achieve the science goals. 
+- **More** for the future. 
+- TBD
+
+## Friend AtLAST working group repositories:
+- Distant Universe Science Case Working Group: https://github.com/jtr6/atlast_distant_universe_wg
+- Milky Way Science Case Working Group: TBD
+- Solar System Science Case Working Group: TBD
+
+## About AtLAST 50-m sub-mm telescope:
+- The Atacama Large Aperture Submillimeter Telescope, AtLAST, is a concept for a next generation 50-meter class single-dish astronomical observatory operating at sub-millimeter and millimeter wavelengths, run as a facility telescope by an international partnership and powered by renewable energy. Check out the home page: https://www.atlast.uio.no/
+- 
+
+## Checklist for joining this repository and contributing to Wiki, to-do's and documents:
 1) If you do not have a GitHub account, you will need to make one: https://github.com/join
 2) Request to join the repository as a collaborator: click on the "Discussions" tab above, and leave a comment on the ["Join this working group as a collaborator!](https://github.com/jtr6/collaborative_working/discussions/1)" thread.
 3) Accept the invitation that arrives via email - note: this will be sent to the email address associated with your GitHub account, and you need to be logged in to GitHub to see this.
