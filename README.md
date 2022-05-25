@@ -19,7 +19,7 @@ This is a community effort for the AtLAST telescope design! Here is a place for 
 
 ## Checklist for joining this repository and contributing to Wiki, to-do's and documents:
 1) If you do not have a GitHub account, you will need to make one: https://github.com/join
-2) Request to join the repository as a collaborator: click on the "Discussions" tab above, and leave a comment on the ["Join this working group as a collaborator!](https://github.com/jtr6/collaborative_working/discussions/1)" thread.
+2) Request to join the repository as a collaborator: click on the "Discussions" tab above, and leave a comment on the ["Join this working group as a collaborator!](https://github.com/atlast612/atlast_nearby_universe_wg/discussions/1)" thread.
 3) Accept the invitation that arrives via email - note: this will be sent to the email address associated with your GitHub account, and you need to be logged in to GitHub to see this.
 4) Explore the workspace! Check out the "Projects" tab above for a to-do list, and the "Wiki" tab. Add your name to the collaborators list in the wiki, and post any ideas in "Discussions".
 
