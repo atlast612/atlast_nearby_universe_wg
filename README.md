@@ -10,7 +10,7 @@ This is a community effort for the AtLAST telescope design! Here is a place for 
 
 ## Friend AtLAST working group repositories:
 - Distant Universe Science Case Working Group: https://github.com/jtr6/atlast_distant_universe_wg
-- Milky Way Science Case Working Group: TBD
+- Milky Way Science Case Working Group: https://github.com/astroklaassen/atlast_our_galaxy_wg
 - Solar System Science Case Working Group: TBD
 
 ## About AtLAST 50-m sub-mm telescope:
